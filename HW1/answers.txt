@@ -1,0 +1,4 @@
+a. 2 to 3 hours at least.
+b. system programming is very useful with time-saving and it is very helpful especially in this era because so much of our world is automated.
+   It can help very much with cyber security, if there are harmful words, sensetive content, etc.
+c. yes, we can develop a new system that can start our program every 1 hour. Although it takes alot of memory, we can still free that memory after every single end of program.
